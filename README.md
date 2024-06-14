@@ -16,6 +16,7 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+ <a href="https://firebase.google.com/" target="_blank"> <img src="https://res.cloudinary.com/dv6fgvj2c/image/upload/v1718341919/dvnzqvfgox4fofa7b8d7.png" alt="firebase" width="40" height="40"/> </a>
     </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
