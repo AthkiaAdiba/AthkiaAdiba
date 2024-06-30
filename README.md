@@ -28,4 +28,4 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-AthkiaAdiba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/athkia-adiba-tonne1/)](https://www.linkedin.com/in/athkia-adiba-tonne1/) 
+[![Linkedin Badge](https://img.shields.io/badge/-AthkiaAdiba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/athkia-adiba-tonne/)](https://www.linkedin.com/in/athkia-adiba-tonne/) 
