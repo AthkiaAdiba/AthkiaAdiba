@@ -6,6 +6,14 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
+
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AthkiaAdiba&theme=whatsapp-light2" alt="GitHub Streak" /></a>
+<br/>
+
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -18,7 +26,7 @@
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://res.cloudinary.com/dv6fgvj2c/image/upload/v1718341919/dvnzqvfgox4fofa7b8d7.png" alt="firebase" width="40" height="40"/> </a>
     </p>
-
+ <br/>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm a Junior Fullstack Developer, currently exploring Next.js
