@@ -25,11 +25,20 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://res.cloudinary.com/dv6fgvj2c/image/upload/v1718341919/dvnzqvfgox4fofa7b8d7.png" alt="firebase" width="40" height="40"/> </a>
+ <br/>
+ <br/>
+ <b/>
+ <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="firebase" width="40" height="40"/> </a>
+ <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" alt="firebase" width="40" height="40"/> </a>
+ <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="firebase" width="40" height="40"/> </a>
+ <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="firebase" width="40" height="40"/> </a>
+ <a href="https://firebase.google.com/" target="_blank"> <img src="https://res.cloudinary.com/dv6fgvj2c/image/upload/v1747300119/430-4309574_mongoose-js-logo-hd-png-download_uedh6x.jpg" alt="firebase" width="70" height="50"/> </a>
+ <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-DarkLogo.png" alt="firebase" width="100" height="50"/> </a>
     </p>
  <br/>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Junior Fullstack Developer, currently exploring Next.js
+- :computer: I'm a Fullstack Developer, currently exploring Next.js
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 -  📄 [Resume](https://drive.google.com/file/d/1f9lKaUxYUdwvYzWLG6wnieId1VYQfOgz/view)<br>
