@@ -38,10 +38,9 @@
  <br/>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Fullstack Developer, currently exploring Next.js
+- :computer: I'm a Full-Stack Developer, currently exploring DevOps practices and tools
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
--  📄 [Resume](https://drive.google.com/file/d/1f9lKaUxYUdwvYzWLG6wnieId1VYQfOgz/view)<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
